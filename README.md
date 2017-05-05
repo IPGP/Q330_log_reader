@@ -3,7 +3,7 @@ A python script to decode Quanterra Q330 Digitizer log files using Obspy
 
 ### Example
 
-    python Q330_log_reader.py
+    python Q330_log_reader.py  G.SSB..LOG.L.2015.324
 
     -------------------------------------------------
     2015,11,25,1,29,32
